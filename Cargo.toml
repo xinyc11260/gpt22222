@@ -52,7 +52,7 @@ reqwest = { package = "reqwest-impersonate", version ="0.11.37", default-feature
     "boring-tls", "impersonate","json", "cookies", "stream", "multipart", "socks", "blocking"
 ] }
 base64 = "0.21.4"
-viuer = "0.6.2"
+viuer = "0.7.1"
 hex = "0.4.3"
 sha2 = "0.10.8"
 env_logger = "0.10.0"
